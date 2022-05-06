@@ -4,6 +4,24 @@
     ViewBag.Title = "All Actors";
     Layout = "_Layout";
 }
+    @* <h1 class="alert alert-success" role="alertdialog">@TempData["success"]</h1> *@
+
+@if (TempData["success"] != null)
+{
+    <script>
+        swal("Added!", "@TempData["success"]", "success", {
+            button: "OK",
+        })
+    </script>
+}
+@if (TempData["delete"] != null)
+{
+    <script>
+        swal("Delete!", "@TempData["success"]", "error", {
+            button: "OK",
+        })
+    </script>
+}
 
 <h2>All Actors</h2>
 

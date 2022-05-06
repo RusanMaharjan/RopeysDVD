@@ -114,7 +114,7 @@ public class ActorController : Controller
 
         _context.Actors.Remove(actor);
         _context.SaveChanges();
-        TempData["success"] = "Actor Deleted Successfully.";
+        TempData["delete"] = "Actor Deleted Successfully.";
         return RedirectToAction("Index");
     }
 }

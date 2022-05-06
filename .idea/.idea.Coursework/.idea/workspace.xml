@@ -7,6 +7,15 @@
   <component name="ChangeListManager">
     <list default="true" id="895c74b2-5361-4d04-8e64-ae897f1f1595" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Coursework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Coursework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/Actor/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Actor/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/bin/Debug/net6.0/Coursework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/bin/Debug/net6.0/Coursework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/bin/Debug/net6.0/Coursework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/bin/Debug/net6.0/Coursework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/Coursework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/Coursework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/Coursework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/Coursework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/ref/Coursework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/ref/Coursework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/refint/Coursework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/refint/Coursework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/staticwebassets.pack.sentinel" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +103,7 @@
       <workItem from="1651807557598" duration="733000" />
       <workItem from="1651808643501" duration="93000" />
       <workItem from="1651813493363" duration="5423000" />
-      <workItem from="1651820060190" duration="19639000" />
+      <workItem from="1651820060190" duration="23722000" />
     </task>
     <task id="LOCAL-00001" summary="feri model milako">
       <created>1651766303628</created>

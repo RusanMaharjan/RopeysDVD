@@ -76,7 +76,7 @@ public class ActorController : Controller
         {
             _context.Actors.Update(a);
             _context.SaveChanges();
-            TempData["success"] = "Actor Updated Successfully.";
+            TempData["update"] = "Actor Updated Successfully.";
             return RedirectToAction("Index");
         }
         return RedirectToAction("Index");

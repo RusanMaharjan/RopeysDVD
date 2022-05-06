@@ -39,7 +39,7 @@ public class LoanTypeController : Controller
         {
             _context.LoanTypes.Add(loanType);
             _context.SaveChanges();
-            TempData["success"] = "Loan Created Successfully.";
+            TempData["success"] = "Loan Type Added Successfully.";
             return RedirectToAction("Index");
         }
 
@@ -75,7 +75,7 @@ public class LoanTypeController : Controller
         {
             _context.LoanTypes.Update(l);
             _context.SaveChanges();
-            TempData["success"] = "Loan Updated Successfully.";
+            TempData["update"] = "Loan Type Updated Successfully.";
             return RedirectToAction("Index");
         }
 
@@ -115,7 +115,7 @@ public class LoanTypeController : Controller
 
         _context.LoanTypes.Remove(loanType);
         _context.SaveChanges();
-        TempData["success"] = "Loan Deleted Successfully";
+        TempData["delete"] = "Loan Type Deleted Successfully";
         return RedirectToAction("Index");
     }
 }

@@ -1,11 +1,26 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <title>@ViewData["Title"]</title>
-</head>
-<body>
+﻿@if (TempData["success"] != null)
+{
+    <script>
+        swal("Added!", "@TempData["success"]", "success", {
+            button: "OK",
+        })
+    </script>
+}
 
-@RenderBody()
+@if (TempData["update"] != null)
+{
+    <script>
+        swal("Update!", "@TempData["update"]", "success", {
+            button: "OK",
+        })
+    </script>
+}
 
-</body>
-</html>
+@if (TempData["delete"] != null)
+{
+    <script>
+        swal("Delete!", "@TempData["delete"]", "error", {
+            button: "OK",
+        })
+    </script>
+}

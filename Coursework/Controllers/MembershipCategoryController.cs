@@ -44,6 +44,7 @@ namespace Coursework.Controllers
             {
                 _context.Add(membershipCategory);
                 await _context.SaveChangesAsync();
+                TempData["success"] = "Membership Category Added Successfully.";
                 return RedirectToAction(nameof(Index));
             }
             return View(membershipCategory);
@@ -83,6 +84,7 @@ namespace Coursework.Controllers
                 {
                     _context.Update(membershipCategory);
                     await _context.SaveChangesAsync();
+                    TempData["update"] = "Membership Category Updated Successfully.";
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -128,6 +130,7 @@ namespace Coursework.Controllers
             var membershipCategory = await _context.MembershipCategories.FindAsync(id);
             _context.MembershipCategories.Remove(membershipCategory);
             await _context.SaveChangesAsync();
+            TempData["delete"] = "Membership Category Deleted Successfully.";
             return RedirectToAction(nameof(Index));
         }
 

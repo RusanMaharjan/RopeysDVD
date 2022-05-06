@@ -75,7 +75,7 @@ public class DVDCategoryController : Controller
         {
             _context.DvdCategories.Update(dvdCategory);
             _context.SaveChanges();
-            TempData["success"] = "DVD Category Updated Successfully.";
+            TempData["update"] = "DVD Category Updated Successfully.";
             return RedirectToAction("Index");
         }
         return RedirectToAction("Index");
@@ -113,7 +113,7 @@ public class DVDCategoryController : Controller
 
         _context.DvdCategories.Remove(dvdCategory);
         _context.SaveChanges();
-        TempData["success"] = "DVD Category Deleted Successfully.";
+        TempData["delete"] = "DVD Category Deleted Successfully.";
         return RedirectToAction("Index");
     }
 }

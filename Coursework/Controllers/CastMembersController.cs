@@ -47,6 +47,7 @@ public class CastMembersController : Controller
             {
                 _context.Add(castMember);
                 _context.SaveChanges();
+                TempData["success"] = "Cast Member Added Successfully.";
                 return RedirectToAction("Index");
             }
             catch (Exception)
@@ -86,6 +87,7 @@ public class CastMembersController : Controller
             {
                 _context.Update(castMember);
                 _context.SaveChanges();
+                TempData["update"] = "Cast Member Updated Successfully.";
                 return RedirectToAction("Index");
             }
             catch (Exception)
@@ -124,6 +126,7 @@ public class CastMembersController : Controller
             var castMember = await _context.CastMembers.FindAsync(id);
             _context.CastMembers.Remove(castMember);
             await _context.SaveChangesAsync();
+            TempData["delete"] = "Cast Member Deleted Successfully.";
             return RedirectToAction("Index");
         }
 

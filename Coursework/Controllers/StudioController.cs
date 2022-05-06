@@ -40,7 +40,7 @@ public class StudioController : Controller
         {
             _context.Studios.Add(studio);
             _context.SaveChanges();
-            TempData["success"] = "Studio Created Successfully.";
+            TempData["success"] = "Studio Added Successfully.";
             return RedirectToAction("Index");
         }
 
@@ -75,7 +75,7 @@ public class StudioController : Controller
         {
             _context.Studios.Update(s);
             _context.SaveChanges();
-            TempData["success"] = "Studio Updated Successfully.";
+            TempData["update"] = "Studio Updated Successfully.";
             return RedirectToAction("Index");
         }
         return RedirectToAction("Index");
@@ -113,7 +113,7 @@ public class StudioController : Controller
 
         _context.Studios.Remove(studio);
         _context.SaveChanges();
-        TempData["success"] = "Studio Deleted Successfully.";
+        TempData["delete"] = "Studio Deleted Successfully.";
         return RedirectToAction("Index");
     }
 }

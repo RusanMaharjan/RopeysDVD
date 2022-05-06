@@ -5,12 +5,25 @@
     <projectFile profileName="IIS Express">Coursework/Coursework.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="895c74b2-5361-4d04-8e64-ae897f1f1595" name="Changes" comment="">
+    <list default="true" id="895c74b2-5361-4d04-8e64-ae897f1f1595" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Coursework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Coursework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Controllers/ActorController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Controllers/ActorController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Controllers/CastMembersController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Controllers/CastMembersController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Controllers/DVDCategoryController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Controllers/DVDCategoryController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Controllers/DVDCopiesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Controllers/DVDCopiesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Controllers/DVDTitleController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Controllers/DVDTitleController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Controllers/LoanController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Controllers/LoanController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Controllers/LoanTypeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Controllers/LoanTypeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Controllers/MemberController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Controllers/MemberController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Controllers/MembershipCategoryController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Controllers/MembershipCategoryController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Controllers/ProducerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Controllers/ProducerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Controllers/StudioController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Controllers/StudioController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coursework/Views/Actor/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Actor/Index.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coursework/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/Shared/_Notification.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Shared/_Notification.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coursework/bin/Debug/net6.0/Coursework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/bin/Debug/net6.0/Coursework.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coursework/bin/Debug/net6.0/Coursework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/bin/Debug/net6.0/Coursework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/Coursework.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/Coursework.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/Coursework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/Coursework.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/Coursework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/Coursework.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/ref/Coursework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/ref/Coursework.dll" afterDir="false" />
@@ -36,6 +49,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/41cc2659897ded1c75869e25f414a6dce3380d39586a3b5a93cc7ebd6ce5/SignInManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/17a25bf4cd58852e31b6bc798fef1d6289441360eea1912bf89a9b4fd337a3/SingleQueryingEnumerable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://E:/My Folder/C# Web/Coursework/Coursework/Coursework/Data/ApplicationDbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Hp/Desktop/Islington College/.net Coursework/RopeysDVD/Coursework/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Hp/Desktop/Islington College/.net Coursework/RopeysDVD/Coursework/Controllers/ActorController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1681edfb7d22e92762a47f7ad24b9c3e49499c53750a9dbeedb20bd20615b/Double.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/16e6dcaab0be4156ad31af88b1ed8700a20698/0/IIdentity.cs" root0="SKIP_HIGHLIGHTING" />
@@ -103,7 +117,7 @@
       <workItem from="1651807557598" duration="733000" />
       <workItem from="1651808643501" duration="93000" />
       <workItem from="1651813493363" duration="5423000" />
-      <workItem from="1651820060190" duration="23722000" />
+      <workItem from="1651820060190" duration="25166000" />
     </task>
     <task id="LOCAL-00001" summary="feri model milako">
       <created>1651766303628</created>
@@ -168,7 +182,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651841513186</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit">
+      <created>1651851032084</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1651851032084</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit">
+      <created>1651851053297</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651851053297</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,10 +222,10 @@
     <MESSAGE value="Migraion gareko feri" />
     <MESSAGE value="Sab CRUD SAKEKO AWASTHA" />
     <MESSAGE value="User" />
-    <MESSAGE value="commit" />
     <MESSAGE value="6 and 7 completed" />
     <MESSAGE value="Controller ko comment lekhna sakyo" />
     <MESSAGE value="Authentication Milyo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Authentication Milyo" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>

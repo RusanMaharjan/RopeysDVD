@@ -256,6 +256,7 @@ public class DVDTitleController : Controller
         {
             _context.Add(dVDTitle);
             _context.SaveChanges();
+            TempData["success"] = "DVD Title Added Successfully.";
             return RedirectToAction("DVDDetails");
         }
         catch (Exception)
@@ -302,6 +303,7 @@ public class DVDTitleController : Controller
         {
             _context.Update(dVDTitle);
             _context.SaveChanges();
+            TempData["update"] = "DVD Title Updated Successfully.";
             return RedirectToAction("DVDDetails");
         }
         catch (Exception)
@@ -341,6 +343,7 @@ public class DVDTitleController : Controller
         var dVDTitle = await _context.DvdTitles.FindAsync(id);
         _context.DvdTitles.Remove(dVDTitle);
         await _context.SaveChangesAsync();
+        TempData["delete"] = "DVD Title Deleted Successfully.";
         return RedirectToAction("DVDDetails");
     }
 

@@ -40,7 +40,7 @@ public class ProducerController : Controller
         {
             _context.Producers.Add(producer);
             _context.SaveChanges();
-            TempData["success"] = "Producer Created Successfully.";
+            TempData["success"] = "Producer Added Successfully.";
             return RedirectToAction("Index");
         }
 
@@ -75,7 +75,7 @@ public class ProducerController : Controller
         {
             _context.Producers.Update(p);
             _context.SaveChanges();
-            TempData["success"] = "Producer Updated Successfully.";
+            TempData["update"] = "Producer Updated Successfully.";
             return RedirectToAction("Index");
         }
         return RedirectToAction("Index");
@@ -113,7 +113,7 @@ public class ProducerController : Controller
 
         _context.Producers.Remove(producer);
         _context.SaveChanges();
-        TempData["success"] = "Studio Deleted Successfully.";
+        TempData["delete"] = "Producer Deleted Successfully.";
         return RedirectToAction("Index");
     }
 }

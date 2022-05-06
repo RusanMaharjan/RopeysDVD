@@ -49,6 +49,7 @@ namespace Coursework.Controllers
             {
                 _context.Add(dVDCopy);
                 _context.SaveChanges();
+                TempData["success"] = "DVD Copy Added Successfully.";
                 return RedirectToAction("Index");
             }
             catch (Exception)
@@ -87,6 +88,7 @@ namespace Coursework.Controllers
             {
                 _context.Update(dVDCopy);
                 _context.SaveChanges();
+                TempData["update"] = "DVD Copy Updated Successfully.";
                 return RedirectToAction("Index");
             }
             catch (Exception)
@@ -124,6 +126,7 @@ namespace Coursework.Controllers
             var dVDCopy = await _context.DvdCopies.FindAsync(id);
             _context.DvdCopies.Remove(dVDCopy);
             await _context.SaveChangesAsync();
+            TempData["delete"] = "DVD Copy Deleted Successfully.";
             return RedirectToAction(nameof(Index));
         }
 

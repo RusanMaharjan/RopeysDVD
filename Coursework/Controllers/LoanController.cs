@@ -103,6 +103,7 @@ namespace Coursework.Controllers
             {
                 _context.Add(loan);
                 _context.SaveChanges();
+                TempData["success"] = "Loan Added Successfully.";
                 return RedirectToAction("Index");
             }
             catch (Exception)
@@ -148,6 +149,7 @@ namespace Coursework.Controllers
             {
                 _context.Update(loan);
                 _context.SaveChanges();
+                TempData["update"] = "Laon Updated Successfully.";
                 return RedirectToAction("Index");
             }
             catch (Exception)
@@ -187,6 +189,7 @@ namespace Coursework.Controllers
             var loan = await _context.Loans.FindAsync(id);
             _context.Loans.Remove(loan);
             await _context.SaveChangesAsync();
+            TempData["delete"] = "Loan Deleted Successfully.";
             return RedirectToAction(nameof(Index));
         }
 

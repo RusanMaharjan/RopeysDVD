@@ -46,6 +46,7 @@ public class MemberController : Controller
         {
             _context.Add(member);
             _context.SaveChanges();
+            TempData["success"] = "Member Added Successfully.";
             return RedirectToAction("Index");
         }
         catch (Exception)
@@ -87,6 +88,7 @@ public class MemberController : Controller
             {
                 _context.Update(member);
                 _context.SaveChanges();
+                TempData["update"] = "Member Updated Successfully.";
                 return RedirectToAction("Index");
             }
             catch (Exception)
@@ -124,6 +126,7 @@ public class MemberController : Controller
             var member = await _context.Members.FindAsync(id);
             _context.Members.Remove(member);
             await _context.SaveChangesAsync();
+            TempData["delete"] = "Member Deleted Successfully.";
             return RedirectToAction(nameof(Index));
         }
 }

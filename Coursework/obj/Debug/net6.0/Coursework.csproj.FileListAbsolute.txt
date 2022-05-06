@@ -1,0 +1,1592 @@
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\appsettings.Development.json
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\appsettings.json
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Coursework.staticwebassets.runtime.json
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\app.db
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Coursework.exe
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Coursework.deps.json
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Coursework.runtimeconfig.json
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Coursework.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Coursework.pdb
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Humanizer.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\Coursework.csproj.AssemblyReference.cache
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\Coursework.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\Coursework.AssemblyInfoInputs.cache
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\Coursework.AssemblyInfo.cs
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\Coursework.csproj.CoreCompileInputs.cache
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\Coursework.MvcApplicationPartsAssemblyInfo.cs
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\Coursework.MvcApplicationPartsAssemblyInfo.cache
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\Coursework.RazorAssemblyInfo.cache
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\Coursework.RazorAssemblyInfo.cs
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\staticwebassets.build.json
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\staticwebassets.development.json
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\scopedcss\bundle\Coursework.styles.css
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\scopedcss\projectbundle\Coursework.bundle.scp.css
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\Coursework.csproj.CopyComplete
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\Coursework.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\refint\Coursework.dll
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\Coursework.pdb
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\Coursework.genruntimeconfig.cache
+E:\My Folder\C# Web\Coursework\Coursework\Coursework\obj\Debug\net6.0\ref\Coursework.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\mscorlib.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\netstandard.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Collections.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Console.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Core.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Data.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Linq.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Memory.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Security.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Text.Json.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Threading.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Web.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Windows.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Xml.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\dotnet-ef.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Folder\C# Web\Coursework\Coursework\coursework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\appsettings.Development.json
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\appsettings.json
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\app.db
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Coursework.staticwebassets.runtime.json
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Coursework.exe
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Coursework.deps.json
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Coursework.runtimeconfig.json
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Coursework.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Coursework.pdb
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\mscorlib.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\netstandard.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Collections.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Console.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Core.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Data.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Linq.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Memory.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Text.Json.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Web.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Windows.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Humanizer.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\dotnet-ef.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.csproj.AssemblyReference.cache
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.GeneratedMSBuildEditorConfig.editorconfig
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.AssemblyInfoInputs.cache
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.AssemblyInfo.cs
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.csproj.CoreCompileInputs.cache
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.MvcApplicationPartsAssemblyInfo.cs
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.MvcApplicationPartsAssemblyInfo.cache
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.RazorAssemblyInfo.cache
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.RazorAssemblyInfo.cs
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\staticwebassets.build.json
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\staticwebassets.development.json
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\scopedcss\bundle\Coursework.styles.css
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\scopedcss\projectbundle\Coursework.bundle.scp.css
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.csproj.CopyComplete
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.dll
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\refint\Coursework.dll
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.pdb
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.genruntimeconfig.cache
+E:\app y3\RopeysDVD\Coursework\obj\Debug\net6.0\ref\Coursework.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\MessagePack.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.Common.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\app y3\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\appsettings.json
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\app.db
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Coursework.staticwebassets.runtime.json
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Coursework.exe
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Coursework.deps.json
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Coursework.runtimeconfig.json
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Coursework.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Coursework.pdb
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.RazorAssemblyInfo.cache
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.RazorAssemblyInfo.cs
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\scopedcss\bundle\Coursework.styles.css
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\scopedcss\projectbundle\Coursework.bundle.scp.css
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.csproj.CopyComplete
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\refint\Coursework.dll
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.pdb
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\Coursework.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Islington College\.net Coursework\RopeysDVD\Coursework\obj\Debug\net6.0\ref\Coursework.dll

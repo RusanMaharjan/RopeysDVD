@@ -1,0 +1,57 @@
+﻿@model System.Collections.Generic.List<Coursework.Models.DTO.MemberLoanDetailsDTO>
+
+@{
+    ViewBag.Title = "MemberLoanDetails";
+}
+
+<h2>Member Loan Details</h2>
+
+<table>
+    <thead>
+    <tr>
+        <th>
+            First Name
+        </th>
+        <th>
+            Last Name
+        </th>
+        <th>
+            Address
+        </th>
+        <th>
+            Date of Birth
+        </th>
+        <th>
+            Membership
+        </th>
+        <th>
+            Total Loans
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.firstName
+            </td>
+            <td>
+                @item.lastName
+            </td>
+            <td>
+                @item.address
+            </td>
+            <td>
+                @item.dateOfBirth
+            </td>
+            <td>
+                @item.description
+            </td>
+            <td>
+                @item.totalLoans
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

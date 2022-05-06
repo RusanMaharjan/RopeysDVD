@@ -1,0 +1,45 @@
+﻿@model Coursework.Models.Member
+
+@{
+    ViewBag.Title = "Add Member";
+    Layout = "_Layout";
+}
+
+<h2>Add Member</h2>
+<form asp-action="Create">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="MembershipCategoryNumber" class="control-label"></label>
+        <select asp-for="MembershipCategoryNumber" class ="form-control" asp-items="ViewBag.MembershipCategoryNumber"></select>
+    </div>
+    <div class="form-group">
+        <label asp-for="MemberLastName" class="control-label"></label>
+        <input asp-for="MemberLastName" class="form-control" placeholder="Member Last Name"/>
+        <span asp-validation-for="MemberLastName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="MemberFirstName" class="control-label"></label>
+        <input asp-for="MemberFirstName" class="form-control" placeholder="Member First Name"/>
+        <span asp-validation-for="MemberFirstName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="MemberAddress" class="control-label"></label>
+        <input asp-for="MemberAddress" class="form-control" placeholder="Member Address"/>
+        <span asp-validation-for="MemberAddress" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="MemberDateOfBirth" class="control-label"></label>
+        <input asp-for="MemberDateOfBirth" class="form-control" placeholder="Date of Birth"/>
+        <span asp-validation-for="MemberDateOfBirth" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts
+{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

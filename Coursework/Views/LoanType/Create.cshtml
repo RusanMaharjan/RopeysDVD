@@ -1,0 +1,22 @@
+﻿@model Coursework.Models.LoanType
+
+@{
+    ViewBag.Title = "Create Loan";
+    Layout = "_Layout";
+}
+
+<h2>Create Loan</h2>
+
+<form action="" method="post">
+    <input type="text" asp-for="Loan_Type" id="" placeholder="loan type">
+    <span asp-validation-for="Loan_Type" class="text-danger"></span>
+    <input type="text" asp-for="LoanDuration" id="" placeholder="loan duration">
+    <span asp-validation-for="LoanDuration" class="text-danger"></span>
+    <button type="submit">Add Loan Type</button>
+</form>
+@section Scripts
+{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

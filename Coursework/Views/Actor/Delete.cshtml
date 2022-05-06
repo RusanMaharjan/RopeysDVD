@@ -1,0 +1,14 @@
+﻿@model Coursework.Models.Actor
+
+@{
+    ViewBag.Title = "Delete Actor";
+    Layout = "_Layout";
+}
+
+<h2>Delete Actor</h2>
+<form action="" method="post">
+    <input type="text" asp-for="ActorNumber">
+    <input type="text" asp-for="ActorFirstName">
+    <input type="text" asp-for="ActorSurname">
+    <button type="submit">Delete</button>
+</form>

@@ -1,0 +1,15 @@
+﻿@model Coursework.Models.DVDCategory
+
+@{
+    ViewBag.Title = "Delete DVD Category";
+    Layout = "_Layout";
+}
+
+<h2>Delete Category</h2>
+
+<form action="" method="post">
+    <input type="text" asp-for="CategoryNumber">
+    <input type="text" asp-for="CategoryDescription">
+    <input type="text" asp-for="AgeRestricted">
+    <button type="submit">Delete Category</button>
+</form>

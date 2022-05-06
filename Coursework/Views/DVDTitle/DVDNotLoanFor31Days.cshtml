@@ -1,0 +1,33 @@
+﻿@model System.Collections.Generic.List<Coursework.Models.DTO.DVDTitleDTO>
+
+@{
+    ViewBag.Title = "Dvd not on loan for 31 days";
+    Layout = "_Layout";
+}
+
+<h2>DVD Not On Loan For Last 31 Days</h2>
+<table>
+    <thead>
+    <tr>
+        <th>Title</th>
+        <th>Released Date</th>
+        <th>Category</th>
+        <th>Studio Name</th>
+        <th>Producer Name</th>
+        <th>Age Restrictions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Title</td>
+            <td>@item.releasedDate</td>
+            <td>@item.Description</td>
+            <td>@item.SudioName</td>
+            <td>@item.ProducerName</td>
+            <td>@item.AgeRestriction</td>
+        </tr>
+    }
+    </tbody>
+</table>

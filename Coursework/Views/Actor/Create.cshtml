@@ -1,0 +1,24 @@
+﻿@model Coursework.Models.Actor
+
+@{
+    ViewBag.Title = "Add Actor";
+    Layout = "_Layout";
+}
+
+<h2>Add Actor</h2>
+
+<form method="post">
+    <label asp-for="ActorFirstName"></label>
+    <input type="text" asp-for="ActorFirstName" placeholder="Actor First Name">
+    <span asp-validation-for="ActorFirstName" class="text-danger"></span>
+    <label asp-for="ActorSurname"></label>
+    <input type="text" asp-for="ActorSurname" placeholder="Actor Last Name">
+    <span asp-validation-for="ActorSurname" class="text-danger"></span>
+    <button type="submit">Submit</button>
+</form>
+@section Scripts
+{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

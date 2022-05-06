@@ -1,0 +1,29 @@
+﻿@model System.Collections.Generic.List<Coursework.Models.DTO.DVDCopiesLoanDTO>
+
+@{
+    ViewBag.Title = "DVD Copies on Loan";
+    Layout = "_Layout";
+}
+
+<h2>Copies of DVDs on Loan</h2>
+<table>
+    <thead>
+    <tr>
+        <th>Member Name</th>
+        <th>DVD Title</th>
+        <th>Copy Number</th>
+        <th>Date Out</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.name</td>
+            <td>@item.title</td>
+            <td>@item.copyNumber</td>
+            <td>@item.dateOut</td>
+        </tr>
+    }
+    </tbody>
+</table>

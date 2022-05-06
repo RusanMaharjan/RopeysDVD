@@ -1,0 +1,32 @@
+﻿@model System.Collections.Generic.IEnumerable<Coursework.Models.Actor>
+
+@{
+    ViewBag.Title = "All Actors";
+    Layout = "_Layout";
+}
+
+<h2>All Actors</h2>
+
+<table class="table table-bordered table-striped w-100">
+    <thead>
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Action</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ActorFirstName</td>
+            <td>@item.ActorSurname</td>
+            <td role="group" class="text-center">
+                <a class="btn btn-warning mx-3" asp-controller="Actor" asp-action="Edit" asp-route-id="@item.ActorNumber"><i class="bi bi-pencil-square fs-3"></i></a>
+                <a class="btn btn-danger" asp-controller="Actor" asp-action="Delete" asp-route-id="@item.ActorNumber"><i class="bi bi-trash fs-3"></i></a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

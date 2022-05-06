@@ -1,0 +1,22 @@
+﻿@model Coursework.Models.Studio
+
+@{
+    ViewBag.Title = "Add Studio";
+    Layout = "_Layout";
+}
+
+<h2>Add Studio</h2>
+
+<form action="" method="post">
+    <label asp-for="StudioName"></label>
+    <input type="text" asp-for="StudioName" placeholder="Studio Name">
+    <span asp-validation-for="StudioName" class="text-danger"></span>
+    <button type="submit">Add</button>
+</form>
+
+@section Scripts
+{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

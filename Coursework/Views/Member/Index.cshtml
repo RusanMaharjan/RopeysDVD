@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Member>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "_Layout";
+}
+
+<h2>All Members</h2>
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            Member First Name
+        </th>
+        <th>
+            Member Last Name
+        </th>
+        <th>
+            Member Address
+        </th>
+        <th>
+            Member Date of Birth
+        </th>
+        <th>
+            Membership Description
+        </th>
+        <th>Action</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberLastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberFirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberDateOfBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MembershipCategoryNumber)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MemberNumber">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.MemberNumber">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

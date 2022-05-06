@@ -1,0 +1,14 @@
+﻿@model Coursework.Models.Actor
+
+@{
+    ViewBag.Title = "Edit Actor";
+    Layout = "_Layout";
+}
+
+<h2>Edit Actor</h2>
+<form method="post">
+    <input type="text" asp-for="ActorNumber">
+    <input type="text" asp-for="ActorFirstName">
+    <input type="text" asp-for="ActorSurname">
+    <button type="submit">Update</button>
+</form>

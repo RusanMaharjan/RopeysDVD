@@ -1,0 +1,58 @@
+﻿@model DVDTitle
+
+@{
+    ViewBag.Title = "Create DVD";
+    Layout = "_Layout";
+}
+
+<h2>Create DVD</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <form action="" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CategoryNumber" class="control-label"></label>
+                <select asp-for="CategoryNumber" class ="form-control" asp-items="ViewBag.CategoryNumber"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudioNumber" class="control-label"></label>
+                <select asp-for="StudioNumber" class ="form-control" asp-items="ViewBag.StudioNumber"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProducerNumber" class="control-label"></label>
+                <select asp-for="ProducerNumber" class ="form-control" asp-items="ViewBag.ProducerNumber"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="TitleName" class="control-label"></label>
+                <input asp-for="TitleName" class="form-control" placeholder="Title Name"/>
+                <span asp-validation-for="TitleName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateReleased" class="control-label"></label>
+                <input asp-for="DateReleased" class="form-control" placeholder="Date Released"/>
+                <span asp-validation-for="DateReleased" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StandardCharge" class="control-label"></label>
+                <input asp-for="StandardCharge" class="form-control" placeholder="Standard Charge"/>
+                <span asp-validation-for="StandardCharge" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PenaltyCharge" class="control-label"></label>
+                <input asp-for="PenaltyCharge" class="form-control" placeholder="Penalty Charge"/>
+                <span asp-validation-for="PenaltyCharge" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts
+{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

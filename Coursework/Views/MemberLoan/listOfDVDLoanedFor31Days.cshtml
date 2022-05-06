@@ -1,0 +1,46 @@
+﻿@* @{ *@
+@*     ViewData["Title"] = "DVD Loan For 31 Days"; *@
+@*     var member = (Member) ViewData["results"]; *@
+@*     var loans = (IEnumerable<Loan>) ViewData["loans"]; *@
+@* } *@
+@* *@
+@* @using (Html.BeginForm()) *@
+@* { *@
+@*     <p> *@
+@*         <input type="search" name="searchMemberName"> *@
+@*         <button type="submit">Search</button> *@
+@*     </p> *@
+@* } *@
+@* *@
+@* <table> *@
+@*     <thead> *@
+@*     <tr> *@
+@*         <th>Member Number</th> *@
+@*         <th>DVD Number</th> *@
+@*         <th>Title</th> *@
+@*         <th>DVD Returned?</th> *@
+@*         <th>Copy Number</th> *@
+@*     </tr> *@
+@*     </thead> *@
+@*     <tbody> *@
+@*     @foreach (var item in loans) *@
+@*     { *@
+@*         <tr> *@
+@*             <td>@item.MemberNumber</td> *@
+@*             <td>@item.DvdCopy.DVDNumber</td> *@
+@*             <td>@item.DvdCopy.DvdTitle.DvdTitle</td> *@
+@*             $1$ <td> #1# *@
+@*             $1$     @if (item.DateReturned == null) #1# *@
+@*             $1$     { #1# *@
+@*             $1$         @Html.Encode("No") #1# *@
+@*             $1$     } #1# *@
+@*             $1$     else #1# *@
+@*             $1$     { #1# *@
+@*             $1$         @Html.Encode(("Yes")) #1# *@
+@*             $1$     } #1# *@
+@*             $1$ </td> #1# *@
+@*             <td>@item.CopyNumber</td> *@
+@*         </tr> *@
+@*     } *@
+@*     </tbody> *@
+@* </table> *@

@@ -1,0 +1,22 @@
+﻿@model Producer
+
+@{
+    ViewBag.Title = "Create Producer";
+    Layout = "_Layout";
+}
+
+<h2>Add Producer</h2>
+
+<form action="" method="post">
+    <label asp-for="ProducerName"></label>
+    <input type="text" asp-for="ProducerName" placeholder="Producer Name">
+    <span asp-validation-for="ProducerName" class="text-danger"></span>
+    <button type="submit">Add Producer</button>
+</form>
+
+@section Scripts
+{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

@@ -1,0 +1,37 @@
+﻿@model System.Collections.Generic.List<Coursework.Models.CastMember>
+
+@{
+    ViewBag.Title = "All Cast Members";
+    Layout = "_Layout";
+}
+
+<h2>title</h2>
+<table>
+    <thead>
+    <tr>
+        <th>
+           Title Name
+        </th>
+        <th>
+            Actor Name
+        </th>
+        <th>Action</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DvdTitle.TitleName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Actor.ActorFirstName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

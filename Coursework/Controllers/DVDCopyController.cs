@@ -16,6 +16,20 @@ public class DVDCopyController : Controller
         _context = context;
     }
     
+    //Question 5
+    public IActionResult Index(string copyNumber)
+    {
+        var cn = _context.Loans;
+        if (!string.IsNullOrEmpty(copyNumber))
+        {
+            var loan = cn.Where(x => x.MemberNumber == int.Parse(copyNumber)).Include(x => x.DvdCopy)
+                .ThenInclude(x => x.DvdTitle).Include(x=>x.Member).FirstOrDefault();
+            return View(loan);
+        }
+
+        return View();
+    }
+    
     //Question 11
     // Function for DVD copies on loan
     // It shows Copies of DVD on loan

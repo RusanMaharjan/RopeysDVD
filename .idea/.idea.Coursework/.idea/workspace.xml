@@ -5,9 +5,7 @@
     <projectFile profileName="IIS Express">Coursework/Coursework.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="895c74b2-5361-4d04-8e64-ae897f1f1595" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Coursework/Controllers/DVDCopyController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Controllers/DVDCopyController.cs" afterDir="false" />
-    </list>
+    <list default="true" id="895c74b2-5361-4d04-8e64-ae897f1f1595" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +94,7 @@
       <workItem from="1651807557598" duration="733000" />
       <workItem from="1651808643501" duration="93000" />
       <workItem from="1651813493363" duration="5423000" />
-      <workItem from="1651820060190" duration="26106000" />
+      <workItem from="1651820060190" duration="26234000" />
     </task>
     <task id="LOCAL-00001" summary="feri model milako">
       <created>1651766303628</created>
@@ -182,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651852491697</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit">
+      <created>1651853331471</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1651853331471</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Questin 5">
+      <created>1651853354231</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651853354231</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,8 +223,9 @@
     <MESSAGE value="6 and 7 completed" />
     <MESSAGE value="Controller ko comment lekhna sakyo" />
     <MESSAGE value="Authentication Milyo" />
-    <MESSAGE value="commit" />
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="Questin 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Questin 5" />
   </component>
 </project>

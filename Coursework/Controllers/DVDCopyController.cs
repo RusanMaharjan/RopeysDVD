@@ -17,6 +17,7 @@ public class DVDCopyController : Controller
     }
     
     //Question 5
+    //function - allow user to select copynumber and find details of last loan for that copy
     public IActionResult Index(string copyNumber)
     {
         var cn = _context.Loans;

@@ -2,7 +2,135 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<marquee behavior="scroll" direction="left"><h1 style="font-family: cursive">Welcome To Ropey's DVD</h1></marquee>
+<hr/>
+
+@if (User.IsInRole("Manager"))
+    {
+        <h1 class="text-center">Crud</h1>
+        <hr class=" mb-4" style="width: 30%; margin: auto"/>
+        <div class="row">
+            <div class="col-md-12 text-center mb-3">
+                <a class="btn btn-info mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="Actor" asp-action="Index">Actor</a>
+                <a class="btn btn-success mx-5  fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="Studio" asp-action="Index">Studio</a>
+                <a class="btn btn-danger mx-5  fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="Producer" asp-action="Index">Producer</a>
+                <a class="btn btn-primary mx-5  fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDCategory" asp-action="Index">DVD Category</a>
+            </div>
+            
+            <div class="col-md-12 text-center  mb-3">
+                <a class="btn btn-secondary mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="LoanType" asp-action="Index">Loan Type</a>
+                <a class="btn btn-warning mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="MembershipCategory" asp-action="Index">Category</a>
+                <a class="btn btn-light mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="CastMembers" asp-action="Index">Cast Members</a>
+                <a class="btn btn-info mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDCopies" asp-action="Index">DVD Copies</a>
+            </div>
+            
+            <div class="col-md-12 mb-3">
+                <a class="btn btn-success mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="Member" asp-action="Index">Member</a>
+                <a class="btn btn-danger mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="Loan" asp-action="Index">Loan</a>
+                <a class="btn btn-primary mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDTitle" asp-action="DVDDetails">Dvd Details</a>
+            </div>
+        </div>
+        
+        <h1 class="text-center mt-5">DVD</h1>
+        <hr class=" mb-4" style="width: 30%; margin: auto"/>
+        <div class="row">
+            <div class="col-md-12 text-center mb-3">
+                <a class=" btn btn-info mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDTitle" asp-action="DVDTitleSearchBYActorLastName">Search DVD</a>
+                <a class="btn btn-success mx-5  fs-5" style="padding: 15px; width: 180px;" asp-area="" asp-controller="DVDTitle" asp-action="DvdOnSelves">DVD on Shelves</a>
+                <a class="btn btn-danger mx-5  fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDTitle" asp-action="ReturnDVD">Return DVD</a>
+                <a class="btn btn-primary mx-5  fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDTitle" asp-action="SearchDVDByMemberName">Search DVD By Member Name</a>
+            </div>
+            <div class="col-md-12 text-center mb-3">
+                <a class="btn btn-secondary mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDTitle" asp-action="DVDNotLoanFor31Days">DVD Not On Loan For 31 Days</a>
+                <a class="btn btn-danger mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDTitle" asp-action="DVDOlderThan365Days">Dvd older than 365 Days</a>
+            </div>
+        </div>
+                
+        <h1 class="text-center mt-5">Loan</h1>
+        <hr class=" mb-4" style="width: 30%; margin: auto"/>
+        <div class="row">
+            <div class="col-md-12 text-center mb-3">
+                <a class="btn btn-primary mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="MemberLoan" asp-action="MemberNotTakenLoanFor31Days">MemberLoan Not Taken For 31 Days</a>
+                <a class="btn btn-success mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDCopy" asp-action="DVDCopiesOnLoan">DVD Copies On Loan</a>
+                <a class="btn btn-danger mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="MemberLoan" asp-action="MemberLoanDetails">Loan Details</a>
+                <a class="btn btn-warning mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDCopy" asp-action="Index">DVD Copy Loan Detail</a>
+            </div>
+        </div>
+    }
+    else if (User.IsInRole("Assistant"))
+    {
+        <h1 class="text-center">Crud</h1>
+        <hr class=" mb-4" style="width: 30%; margin: auto"/>
+        <div class="row">
+            <div class="col-md-12 text-center mb-3">
+                <a class="btn btn-info mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="Actor" asp-action="Index">Actor</a>
+                <a class="btn btn-success mx-5  fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="Studio" asp-action="Index">Studio</a>
+                <a class="btn btn-danger mx-5  fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="Producer" asp-action="Index">Producer</a>
+                <a class="btn btn-primary mx-5  fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDCategory" asp-action="Index">DVD Category</a>
+            </div>
+            
+            <div class="col-md-12 text-center  mb-3">
+                <a class="btn btn-secondary mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="LoanType" asp-action="Index">Loan Type</a>
+                <a class="btn btn-warning mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="MembershipCategory" asp-action="Index">Category</a>
+                <a class="btn btn-light mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="CastMembers" asp-action="Index">Cast Members</a>
+                <a class="btn btn-info mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDCopies" asp-action="Index">DVD Copies</a>
+            </div>
+            
+            <div class="col-md-12 mb-3">
+                <a class="btn btn-success mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="Member" asp-action="Index">Member</a>
+                <a class="btn btn-danger mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="Loan" asp-action="Index">Loan</a>
+                <a class="btn btn-primary mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDTitle" asp-action="DVDDetails">Dvd Details</a>
+            </div>
+        </div>
+        
+        <h1 class="text-center mt-5">DVD</h1>
+        <hr class=" mb-4" style="width: 30%; margin: auto"/>
+        <div class="row">
+            <div class="col-md-12 text-center mb-3">
+                <a class=" btn btn-info mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDTitle" asp-action="DVDTitleSearchBYActorLastName">Search DVD</a>
+                <a class="btn btn-success mx-5  fs-5" style="padding: 15px; width: 180px;" asp-area="" asp-controller="DVDTitle" asp-action="DvdOnSelves">DVD on Shelves</a>
+                <a class="btn btn-danger mx-5  fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDTitle" asp-action="ReturnDVD">Return DVD</a>
+                <a class="btn btn-primary mx-5  fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDTitle" asp-action="SearchDVDByMemberName">Search DVD By Member Name</a>
+            </div>
+            <div class="col-md-12 text-center mb-3">
+                <a class="btn btn-secondary mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDTitle" asp-action="DVDNotLoanFor31Days">DVD Not On Loan For 31 Days</a>
+                <a class="btn btn-danger mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDTitle" asp-action="DVDOlderThan365Days">Dvd older than 365 Days</a>
+            </div>
+        </div>
+                
+        <h1 class="text-center mt-5">Loan</h1>
+        <hr class=" mb-4" style="width: 30%; margin: auto"/>
+        <div class="row">
+            <div class="col-md-12 text-center mb-3">
+                <a class="btn btn-primary mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="MemberLoan" asp-action="MemberNotTakenLoanFor31Days">MemberLoan Not Taken For 31 Days</a>
+                <a class="btn btn-success mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDCopy" asp-action="DVDCopiesOnLoan">DVD Copies On Loan</a>
+                <a class="btn btn-danger mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="MemberLoan" asp-action="MemberLoanDetails">Loan Details</a>
+                <a class="btn btn-warning mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDCopy" asp-action="Index">DVD Copy Loan Detail</a>
+            </div>
+        </div>
+    }
+    else if (User.IsInRole("User"))
+    {
+        <h1 class="text-center mt-5">DVD</h1>
+        <hr class=" mb-4" style="width: 30%; margin: auto"/>
+        <div class="row" style="margin-bottom: 160px">
+            <div class="col-md-12 text-center mb-3">
+                <a class=" btn btn-info mx-5 fs-5" style="padding: 15px; width: 180px" asp-area="" asp-controller="DVDTitle" asp-action="DVDTitleSearchBYActorLastName">Search DVD</a>
+                <a class="btn btn-success mx-5  fs-5" style="padding: 15px; width: 180px;" asp-area="" asp-controller="DVDTitle" asp-action="DvdOnSelves">DVD on Shelves</a>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="text-center" style="margin-top: 80px">
+            <h1>Welcome</h1>
+            <h3>Please Register to Use the System</h3>
+        </div>
+        <div class="row text-center" style="margin-bottom: 120px; margin-top: 30px">
+            <div class="col">
+                <a class="btn btn-success fs-5" asp-area="Identity" asp-page="/Account/Register">Register &rarr;</a>
+                <a class="btn btn-info fs-5 mx-3" asp-area="Identity" asp-page="/Account/Login">Login &rarr;</a>
+            </div>
+        </div>
+    }
+    

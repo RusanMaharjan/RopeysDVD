@@ -7,46 +7,11 @@
   <component name="ChangeListManager">
     <list default="true" id="895c74b2-5361-4d04-8e64-ae897f1f1595" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Coursework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Coursework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Controllers/LoanController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Controllers/LoanController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/CastMembers/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/CastMembers/Create.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/CastMembers/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/CastMembers/Delete.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/CastMembers/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/CastMembers/Edit.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/CastMembers/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/CastMembers/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Create.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Delete.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Edit.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCopy/DVDCopiesOnLoan.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCopy/DVDCopiesOnLoan.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCopy/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCopy/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/CreateDVD.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/CreateDVD.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDDetails.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDDetails.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDNotLoanFor31Days.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDNotLoanFor31Days.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDOlderThan365Days.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDOlderThan365Days.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDTitleSearchBYActorLastName.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDTitleSearchBYActorLastName.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/Delete.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DvdOnSelves.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DvdOnSelves.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/Edit.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/Index.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/ReturnDVD.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/ReturnDVD.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/SearchDVDByMemberName.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/SearchDVDByMemberName.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Loan/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Loan/Create.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Loan/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Loan/Delete.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Loan/Details.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Loan/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Loan/Edit.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Loan/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Loan/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Member/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Member/Create.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Member/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Member/Delete.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Member/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Member/Edit.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Member/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Member/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/MemberLoan/MemberLoanDetails.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/MemberLoan/MemberLoanDetails.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/MemberLoan/MemberNotTakenLoanFor31Days.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/MemberLoan/MemberNotTakenLoanFor31Days.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/MemberLoan/listOfDVDLoanedFor31Days.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Create.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Delete.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Edit.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Areas/Identity/Pages/Account/Login.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Areas/Identity/Pages/Account/Login.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Home/Index.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coursework/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/wwwroot/css/site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/Shared/_LoginPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Shared/_LoginPartial.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/wwwroot/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/wwwroot/css/bootstrap.min.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +29,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4ea681aa1df24442c1a5e1e18582b1a2d29ac5bfd41390c94a5d2cc958b5ff/UserManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Coursework/Controllers/DVDCopyController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/e3bc3f84cc248cc742fc1c5f56a7727d2febed13ab281104470f728796baac5/RazorPage.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f4708639776589f5ac2739f6fcbfc67343b1f9dac51cc1dbfdb003eef77cc1c/Monitor.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/41cc2659897ded1c75869e25f414a6dce3380d39586a3b5a93cc7ebd6ce5/SignInManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/17a25bf4cd58852e31b6bc798fef1d6289441360eea1912bf89a9b4fd337a3/SingleQueryingEnumerable.cs" root0="SKIP_HIGHLIGHTING" />
@@ -71,6 +37,7 @@
     <setting file="mock://C:/Users/Hp/Desktop/Islington College/.net Coursework/RopeysDVD/Coursework/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1681edfb7d22e92762a47f7ad24b9c3e49499c53750a9dbeedb20bd20615b/Double.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/16e6dcaab0be4156ad31af88b1ed8700a20698/0/IIdentity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Hp/Desktop/Islington College/.net Coursework/RopeysDVD/Coursework/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Hp/Desktop/Islington College/.net Coursework/RopeysDVD/Coursework/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -138,7 +105,7 @@
       <workItem from="1651820060190" duration="26234000" />
       <workItem from="1651853473860" duration="1301000" />
       <workItem from="1651892060506" duration="1241000" />
-      <workItem from="1651897105399" duration="27277000" />
+      <workItem from="1651897105399" duration="37307000" />
     </task>
     <task id="LOCAL-00001" summary="feri model milako">
       <created>1651766303628</created>
@@ -266,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651915718179</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="commit">
+      <created>1651933406289</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1651933406289</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

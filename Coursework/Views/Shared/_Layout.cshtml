@@ -16,156 +16,16 @@
 <header>
     <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-light border-bottom box-shadow mb-3">
         <div class="container-fluid">
-            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Coursework</a>
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                <span class="fs-3 fw-bold" style="color: Blue">R</span>opey<span class="fw-bold fs-4" style="color: #0c4128">'</span>s <span class="fs-4 fw-bold">D</span><span class="fw-bold fs-3" style="color: #6f251d;">V</span><span class="fs-4 fw-bold">D</span>
+            </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                @if (User.IsInRole("Manager"))
-                {
-                    <ul class="navbar-nav flex-grow-1">
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            CRUD
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" asp-area="" asp-controller="Actor" asp-action="Index">Actor</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="Studio" asp-action="Index">Studio</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="Producer" asp-action="Index">Producer</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDCategory" asp-action="Index">DVD Category</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="LoanType" asp-action="Index">Loan Type</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="MembershipCategory" asp-action="Index">Membership Category</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Foreign Key CRUD
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" asp-area="" asp-controller="CastMembers" asp-action="Index">Cast Members</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDCopies" asp-action="Index">DVD Copies</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="Member" asp-action="Index">Member</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="Loan" asp-action="Index">Loan</a></li>
-                        </ul>
-                    </li>
-
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            DVD
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDTitleSearchBYActorLastName">Search DVD</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DvdOnSelves">Search DVD on Shelves</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDDetails">Dvd Details</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="ReturnDVD">Return DVD</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="SearchDVDByMemberName">Search DVD By Member Name</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDNotLoanFor31Days">DVD Not On Loan For 31 Days</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDOlderThan365Days">Dvd older than 365 Days</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="MemberLoan" asp-action="MemberNotTakenLoanFor31Days">MemberLoan Not Taken For 31 Days</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="DVDCopy" asp-action="DVDCopiesOnLoan">DVD Copies On Loan</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="MemberLoan" asp-action="MemberLoanDetails">Loan Details</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="DVDCopy" asp-action="Index">DVD Copy Loan Detail</a>
-                    </li>
-                </ul>
-                }
-                else if (User.IsInRole("Assistant"))
-                {
-                    <ul class="navbar-nav flex-grow-1">
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            CRUD
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" asp-area="" asp-controller="Actor" asp-action="Index">Actor</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="Studio" asp-action="Index">Studio</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="Producer" asp-action="Index">Producer</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDCategory" asp-action="Index">DVD Category</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="LoanType" asp-action="Index">Loan Type</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="MembershipCategory" asp-action="Index">Membership Category</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Foreign Key CRUD
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" asp-area="" asp-controller="CastMembers" asp-action="Index">Cast Members</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDCopies" asp-action="Index">DVD Copies</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="Member" asp-action="Index">Member</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="Loan" asp-action="Index">Loan</a></li>
-                        </ul>
-                    </li>
-
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            DVD
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDTitleSearchBYActorLastName">Search DVD</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DvdOnSelves">Search DVD on Shelves</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDDetails">Dvd Details</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="ReturnDVD">Return DVD</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="SearchDVDByMemberName">Search DVD By Member Name</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDNotLoanFor31Days">DVD Not On Loan For 31 Days</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDOlderThan365Days">Dvd older than 365 Days</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="MemberLoan" asp-action="MemberNotTakenLoanFor31Days">MemberLoan Not Taken For 31 Days</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="DVDCopy" asp-action="DVDCopiesOnLoan">DVD Copies On Loan</a>
-                    </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="MemberLoan" asp-action="MemberLoanDetails">Loan Details</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="DVDCopy" asp-action="Index">DVD Copy Loan Detail</a>
-                        </li>
-                </ul>
-                }
-                else if(User.IsInRole("User"))
-                {
-                    <ul class="navbar-nav flex-grow-1">
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                    </li>
-
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            DVD
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDTitleSearchBYActorLastName">Search DVD</a></li>
-                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DvdOnSelves">Search DVD on Shelves</a></li>
-                        </ul>
-                    </li>
-                </ul>
-                }
-                else
-                {
-                    <li class="nav-link text-dark">Welcome</li>
-                }
-                
-                <partial name="_LoginPartial"/>
+            <partial name="_LoginPartial"/>
             </div>
-        </div>
+        @* </div> *@
     </nav>
 </header>
 <div class="container">
@@ -176,7 +36,7 @@
 </div>
 
 <footer class="border-top footer text-muted">
-    <div class="container">
+    <div class="container text-center fs-5">
         &copy; 2022 - Ropeys DVD - GroupCoursework
     </div>
 </footer>

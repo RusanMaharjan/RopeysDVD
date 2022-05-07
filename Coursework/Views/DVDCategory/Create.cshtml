@@ -5,17 +5,34 @@
     Layout = "_Layout";
 }
 
-<h2>Add DVD Category</h2>
+<h2 class="mt-4 text-center">Add DVD Category</h2>
 
-<form action="" method="post">
-    <label asp-for="CategoryDescription"></label>
-    <input type="text" asp-for="CategoryDescription" placeholder="Category Description">
-    <span asp-validation-for="CategoryDescription" class="text-danger"></span>
-    <label asp-for="AgeRestricted"></label>
-    <input type="text" asp-for="AgeRestricted" placeholder="Age Restriction">
-    <span asp-validation-for="AgeRestricted" class="text-danger"></span>
-    <button type="submit">Add Category</button>
-</form>
+<div class="w-50 m-auto bg-secondary mb-5" style="padding: 20px 15px; border-radius: 5px">
+         <div class="row">
+             <div class="col-md-6">
+                 <h3 class="text-uppercase">Create</h3>
+             </div>
+             <div class="col-md-6 text-end">
+                 <a class="btn btn-info" asp-action="Index">Back To List &rarr;</a>
+             </div>
+         </div>
+     
+    <hr/>
+    
+    <form action="" method="post">
+        <label asp-for="CategoryDescription" class="form-label fs-5"></label>
+        <input type="text" asp-for="CategoryDescription" class="form-control mt-1" placeholder="Category Description">
+        <span asp-validation-for="CategoryDescription" class="text-danger"></span><br/>
+        <label asp-for="AgeRestricted" class="form-label fs-5"></label>
+        <input type="text" asp-for="AgeRestricted" class="form-control mt-1" placeholder="Age Restriction">
+        <span asp-validation-for="AgeRestricted" class="text-danger"></span>
+        <div class="text-center">
+            <button type="submit" class="mt-4 btn btn-success w-75 fs-5" style="border-radius: 10px;">Add Category</button>
+        </div>
+        
+    </form>
+</div>
+
 @section Scripts
 {
     @{

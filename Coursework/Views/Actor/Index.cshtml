@@ -7,11 +7,13 @@
     @* <h1 class="alert alert-success" role="alertdialog">@TempData["success"]</h1> *@
 
 
+<div class="row mt-4">
+    <div class="col-md-6"><h2>All Actors</h2></div>
+    <div class="col-md-6 text-end"><a type="button" asp-controller="Actor" asp-action="Create" class="btn btn-outline-light btn btn-lig">Create Actor <i class="bi bi-plus-circle"></i></a></div>
+</div>
 
-<h2>All Actors</h2>
-
-<table class="table table-bordered table-striped w-100">
-    <thead>
+<table class="table text-center table-bordered table-striped w-100 mb-5">
+    <thead class="bg-secondary">
     <tr>
         <th>First Name</th>
         <th>Last Name</th>
@@ -25,9 +27,10 @@
         <tr>
             <td>@item.ActorFirstName</td>
             <td>@item.ActorSurname</td>
-            <td role="group" class="text-center">
-                <a class="btn btn-warning mx-3" asp-controller="Actor" asp-action="Edit" asp-route-id="@item.ActorNumber"><i class="bi bi-pencil-square fs-3"></i></a>
-                <a class="btn btn-danger" asp-controller="Actor" asp-action="Delete" asp-route-id="@item.ActorNumber"><i class="bi bi-trash fs-3"></i></a>
+            <td role="group" class="">
+                
+                <a class="btn btn-info text-decoration-underline mx-3" asp-controller="Actor" asp-action="Edit" asp-route-id="@item.ActorNumber">Edit &rarr;</a>
+                <a class="btn btn-danger text-decoration-underline" asp-controller="Actor" asp-action="Delete" asp-route-id="@item.ActorNumber">Delete &rarr;</a>
             </td>
         </tr>
     }

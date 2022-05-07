@@ -5,10 +5,31 @@
     Layout = "_Layout";
 }
 
-<h2>Delete Actor</h2>
-<form action="" method="post">
-    <input type="text" asp-for="ActorNumber">
-    <input type="text" asp-for="ActorFirstName">
-    <input type="text" asp-for="ActorSurname">
-    <button type="submit">Delete</button>
-</form>
+<h2 class="text-center">Delete Actor</h2>
+
+<div class="w-50 m-auto bg-secondary mb-5" style="padding: 20px 15px; border-radius: 5px">
+    
+    <div class="row">
+                <div class="col-md-6">
+                    <h3 class="text-uppercase">Delete</h3>
+                </div>
+                <div class="col-md-6 text-end">
+                    <a class="btn btn-info" asp-action="Index">Back To List &rarr;</a>
+                </div>
+            </div>
+        
+    <hr/>
+    
+    <form action="" method="post">
+        <input type="text" class="form-control fs-4" asp-for="ActorNumber">
+        <input type="text" class="form-control fs-4 mt-2"  asp-for="ActorFirstName">
+        <input type="text" class="form-control fs-4 mt-2" asp-for="ActorSurname">
+        
+        <div class="text-center">
+            <button type="submit"  class="mt-4 btn btn-danger w-75 fs-5" style="border-radius: 10px;">Delete</button>
+        </div>
+        
+        
+    </form>
+
+</div>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NcDxC7Gw/In1GjkyJc+DXDftoC7aceNedljLRPn4XdQ=",
+  "Hash": "rlLKvyDK+4ddiPxF5eQIMKIBrcv/I72rZrPDsUEod2A=",
   "Source": "Coursework",
   "BasePath": "_content/Coursework",
   "Mode": "Default",
@@ -1069,6 +1069,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Hp\\Desktop\\Islington College\\.net Coursework\\RopeysDVD\\Coursework\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Coursework.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\Islington College\\.net Coursework\\RopeysDVD\\Coursework\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "Coursework",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\Islington College\\.net Coursework\\RopeysDVD\\Coursework\\wwwroot\\",
+      "BasePath": "_content/Coursework",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
       "Identity": "C:\\Users\\Hp\\Desktop\\Islington College\\.net Coursework\\RopeysDVD\\Coursework\\wwwroot\\css\\site.css",

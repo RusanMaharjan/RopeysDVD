@@ -5,9 +5,13 @@
     Layout = "_Layout";
 }
 
-<h2>All Loan Types</h2>
-<table>
-    <thead>
+<div class="row mt-4">
+    <div class="col-md-6"><h2>All Loan Types</h2></div>
+    <div class="col-md-6 text-end"><a type="button" asp-controller="LoanType" asp-action="Create" class="btn btn-outline-light btn btn-lig">Create Loan Type <i class="bi bi-plus-circle"></i></a></div>
+</div>
+
+<table class="table text-center table-bordered table-striped w-100 mb-5">
+    <thead class="bg-secondary">
     <tr>
         <th>Loan Type</th>
         <th>Loan Duration</th>
@@ -21,13 +25,10 @@
             <td>@item.Loan_Type</td>
             <td>@item.LoanDuration</td>
             <td role="group" class="text-center">
-                <a class="btn btn-warning mx-3" asp-controller="LoanType" asp-action="Edit" asp-route-id="@item.LoanTypeNumber"><i class="bi bi-pencil-square fs-3"></i></a>
-                <a class="btn btn-danger" asp-controller="LoanType" asp-action="Delete" asp-route-id="@item.LoanTypeNumber"><i class="bi bi-trash fs-3"></i></a>
+                <a class="btn btn-info mx-3" asp-controller="LoanType" asp-action="Edit" asp-route-id="@item.LoanTypeNumber">Edit &rarr;</a>
+                <a class="btn btn-danger" asp-controller="LoanType" asp-action="Delete" asp-route-id="@item.LoanTypeNumber">Delete &rarr;</a>
             </td>
         </tr>
     }
     </tbody>
-    <tr>
-        <td></td>
-    </tr>
-</table>
+ </table>

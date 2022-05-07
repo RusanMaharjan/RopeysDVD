@@ -5,11 +5,41 @@
     Layout = "_Layout";
 }
 
-<h2>Edit DVD Category</h2>
+<h2 class="text-center">Edit DVD Category</h2>
 
-<form action="" method="post">
-    <input type="text" asp-for="CategoryNumber">
-    <input type="text" asp-for="CategoryDescription">
-    <input type="text" asp-for="AgeRestricted">
-    <button type="submit">Edit Category</button>
-</form>
+<div class="w-50 m-auto bg-secondary mb-5" style="padding: 20px 15px; border-radius: 5px">
+         
+    <div class="row">
+        <div class="col-md-6">
+            <h3 class="text-uppercase">Edit</h3>
+        </div>
+        <div class="col-md-6 text-end">
+            <a class="btn btn-info" asp-action="Index">Back To List &rarr;</a>
+        </div>
+    </div>
+         
+    <hr/>
+    
+    <form action="" method="post">
+        <input type="hidden" asp-for="CategoryNumber">
+        
+        <label asp-for="CategoryDescription" class="form-label fs-5"></label>
+        <input type="text" class="form-control mt-1" asp-for="CategoryDescription">
+        <span asp-validation-for="CategoryDescription" class="text-danger"></span>
+        <br/>
+        <label asp-for="AgeRestricted" class="form-label fs-5"></label>
+        <input type="text" class="form-control mt-1" asp-for="AgeRestricted">
+        <span asp-validation-for="AgeRestricted" class="text-danger"></span>
+        
+        <div class="text-center">
+            <button type="submit" class="mt-4 btn btn-success w-75 fs-5" style="border-radius: 10px;">Edit Category</button>
+        </div>
+        
+    </form>
+</div>
+@section Scripts
+{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

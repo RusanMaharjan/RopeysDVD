@@ -5,9 +5,14 @@
     Layout = "_Layout";
 }
 
-<h2>All DVD Category</h2>
-<table class="table table-bordered table-striped w-100">
-    <thead>
+
+<div class="row mt-4">
+    <div class="col-md-6"><h2>All DVD Category</h2></div>
+    <div class="col-md-6 text-end"><a type="button" asp-controller="DVDCategory" asp-action="Create" class="btn btn-outline-light btn btn-lig">Create Actor <i class="bi bi-plus-circle"></i></a></div>
+</div>
+
+<table class="table text-center table-bordered table-striped w-100 mb-5">
+    <thead class="bg-secondary">
     <tr>
         <th>Category Description</th>
         <th>Age Restriction</th>
@@ -22,8 +27,8 @@
             <td>@item.CategoryDescription</td>
             <td>@item.AgeRestricted</td>
             <td role="group" class="text-center">
-                <a class="btn btn-warning mx-3" asp-controller="DVDCategory" asp-action="Edit" asp-route-id="@item.CategoryNumber"><i class="bi bi-pencil-square fs-3"></i></a>
-                <a class="btn btn-danger" asp-controller="DVDCategory" asp-action="Delete" asp-route-id="@item.CategoryNumber"><i class="bi bi-trash fs-3"></i></a>
+                <a class="btn btn-info mx-3" asp-controller="DVDCategory" asp-action="Edit" asp-route-id="@item.CategoryNumber">Edit &rarr;</a>
+                <a class="btn btn-danger" asp-controller="DVDCategory" asp-action="Delete" asp-route-id="@item.CategoryNumber">Delete &rarr;</a>
             </td>
         </tr>
     }

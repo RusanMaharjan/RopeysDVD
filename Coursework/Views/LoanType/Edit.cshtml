@@ -5,10 +5,43 @@
     Layout = "_Layout";
 }
 
-<h2>Edit Loan</h2>
-<form action="" method="post">
-    <input type="text" asp-for="LoanTypeNumber">
-    <input type="text" asp-for="Loan_Type">
-    <input type="text" asp-for="LoanDuration" id="">
-    <button type="submit">Edit Loan Type</button>
-</form>
+<h2 class="text-center">Edit Loan</h2>
+
+<div class="w-50 m-auto bg-secondary mb-5" style="padding: 20px 15px; border-radius: 5px">
+         
+    <div class="row">
+        <div class="col-md-6">
+            <h3 class="text-uppercase">Edit</h3>
+        </div>
+        <div class="col-md-6 text-end">
+            <a class="btn btn-info" asp-action="Index">Back To List &rarr;</a>
+        </div>
+    </div>
+         
+    <hr/>
+    
+    <form action="" method="post">
+        <input type="hidden" asp-for="LoanTypeNumber">
+        
+        <label asp-for="Loan_Type" class="form-label fs-5"></label>
+        <input type="text" class="form-control mt-1" asp-for="Loan_Type">
+        <span asp-validation-for="Loan_Type" class="text-danger"></span>
+        <br/>
+        <label asp-for="LoanDuration" class="form-label fs-5"></label>
+        <input type="text" class="form-control mt-1" asp-for="LoanDuration" id="">
+        <span asp-validation-for="LoanDuration" class="text-danger"></span>
+        
+        <div class="text-center">
+            <button type="submit" class="mt-4 btn btn-success w-75 fs-5" style="border-radius: 10px;">Edit Loan Type</button>
+        </div>
+        
+    </form>
+</div>
+@section Scripts
+{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}
+
+

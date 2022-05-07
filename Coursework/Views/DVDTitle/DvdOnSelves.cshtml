@@ -7,18 +7,19 @@
     var results = (IEnumerable<DVDOnSelvesDTO>)ViewData["results"];
 }
 
-<h2>DVD on Shelves</h2>
+<h2 class="text-center">DVD on Shelves</h2>
+<hr class="mb-5" style="width: 30%; margin: auto"/>
 
 @using (Html.BeginForm())
 {
-    <p>
-        <input type="search" name="lastName">
-        <button type="submit">Submit</button>
-    </p>
+    <div class="text-end mb-4">
+        <input type="search" name="lastName" style="width: 30%; border-radius: 5px; height: 40px; padding: 0 10px; outline: none;" placeholder="Search By Actor Last Name">
+        <button class="btn btn-info" type="submit">Search &nbsp;<i class="bi bi-search"></i></button>
+    </div>
 }
 
-<table>
-    <thead>
+<table class="table text-center table-bordered table-striped w-100 mb-5">
+    <thead class="bg-secondary">
     <tr>
         <th>Actor</th>
         <th>DVD Number</th>

@@ -4,12 +4,21 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
+<h1 class="mt-4 text-center">Membership Category</h1>
 
-<h4>MembershipCategory</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
+<div class="w-50 m-auto bg-secondary mb-5" style="padding: 20px 15px; border-radius: 5px">
+         <div class="row">
+             <div class="col-md-6">
+                 <h3 class="text-uppercase">Create</h3>
+             </div>
+             <div class="col-md-6 text-end">
+                 <a class="btn btn-info" asp-action="Index">Back To List &rarr;</a>
+             </div>
+         </div>
+     
+    <hr/>
+    
+    <div class="col">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
@@ -17,13 +26,14 @@
                 <input asp-for="MembershipCategoryDescription" class="form-control" placeholder="Membership Category Description"/>
                 <span asp-validation-for="MembershipCategoryDescription" class="text-danger"></span>
             </div>
+            <br/>
             <div class="form-group">
                 <label asp-for="MembershipCategoryTotalLoans" class="control-label"></label>
                 <input asp-for="MembershipCategoryTotalLoans" class="form-control" placeholder="Membership Category Total Loans" />
                 <span asp-validation-for="MembershipCategoryTotalLoans" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+            <div class="form-group text-center">
+                <input type="submit" value="Create" class="mt-4 btn btn-success w-75 fs-5" />
             </div>
         </form>
     </div>

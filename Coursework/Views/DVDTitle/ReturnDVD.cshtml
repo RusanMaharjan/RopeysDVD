@@ -5,15 +5,16 @@
     String message = (String)ViewData["message"];
 }
 
-<h2>Status of Returned DVD</h2>
+<h2 class="text-center">Status of Returned DVD</h2>
+<hr class="mb-5" style="width: 40%; margin: auto"/>
 
 @using (Html.BeginForm())
 {
-    <p>
-        <input type="search" name="id">
-        <button type="submit">Submit</button>
-    </p>
+    <div class="text-end">
+        <input type="search" name="id" style="width: 30%; border-radius: 5px; height: 40px; padding: 0 10px; outline: none;" placeholder="Search By DVD ID">
+         <button class="btn btn-info" type="submit">Search &nbsp;<i class="bi bi-search"></i></button>
+    </div>
 }
-<div>
-    <h4>@message</h4>
+<div class="text-center mt-5">
+    <h2 class="text-danger">@message</h2>
 </div>

@@ -5,30 +5,35 @@
     Layout = "_Layout";
 }
 
-<h2>Member Who have not Taken Loan For 31 Days</h2>
-<table>
-    <thead>
-    <tr>
-        <th>First Name</th>
-        <th>Last Name</th>
-        <th>Address</th>
-        <th>Title</th>
-        <th>Last Date of Loan</th>
-        <th>Days Since Last Loan</th>
-    </tr>
-    </thead>
+<h2 class="text-center">Member Who have not Taken Loan For 31 Days</h2>
+<hr class="mb-5" style="width: 80%; margin: auto"/>
+<div class="">
     
-    <tbody>
-    @foreach (var item in Model)
-    {
+    <table class="table text-center table-bordered table-striped w-100 mb-5">
+        <thead class="bg-secondary">
         <tr>
-            <td>@item.firstName</td>
-            <td>@item.lastName</td>
-            <td>@item.address</td>
-            <td>@item.DvdTitle</td>
-            <td>@item.dateOut</td>
-            <td>@item.numberOfDays</td>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Address</th>
+            <th>Title</th>
+            <th>Last Date of Loan</th>
+            <th>Days Since Last Loan</th>
         </tr>
-    }
-    </tbody>
-</table>
+        </thead>
+        
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.firstName</td>
+                <td>@item.lastName</td>
+                <td>@item.address</td>
+                <td>@item.DvdTitle</td>
+                <td>@item.dateOut</td>
+                <td>@item.numberOfDays</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>
+

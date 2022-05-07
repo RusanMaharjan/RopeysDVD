@@ -12,41 +12,41 @@
     <h4>Member</h4>
     <hr />
     <dl class="row">
-        <dt class = "col-sm-2">
+        <dt class = "col-sm-4">
             @Html.DisplayNameFor(model => model.MembershipCategory.MembershipCategoryDescription)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class = "col-sm-8">
             @Html.DisplayFor(model => model.MembershipCategory.MembershipCategoryDescription)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class = "col-sm-4">
             @Html.DisplayNameFor(model => model.MemberFirstName)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class = "col-sm-8">
             @Html.DisplayFor(model => model.MemberFirstName)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class = "col-sm-4">
             @Html.DisplayNameFor(model => model.MemberLastName)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class = "col-sm-8">
             @Html.DisplayFor(model => model.MemberLastName)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class = "col-sm-4">
             @Html.DisplayNameFor(model => model.MemberAddress)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class = "col-sm-8">
             @Html.DisplayFor(model => model.MemberAddress)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class = "col-sm-4">
             @Html.DisplayNameFor(model => model.MemberDateOfBirth)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class = "col-sm-8">
             @Html.DisplayFor(model => model.MemberDateOfBirth)
         </dd>
     </dl>
     
     <form asp-action="Delete">
         <input type="hidden" asp-for="MemberNumber" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
+        <input type="submit" value="Delete" class="btn btn-danger" /> 
+        <a class="btn btn-info" asp-action="Index">Back to List</a>
     </form>
 </div>

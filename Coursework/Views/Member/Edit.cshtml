@@ -5,36 +5,51 @@
     Layout = "_Layout";
 }
 
-<h2>Edit Member</h2>
-<form asp-action="Edit">
-    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-    <input type="hidden" asp-for="MemberNumber" />
-    <div class="form-group">
-        <label asp-for="MembershipCategoryNumber" class="control-label"></label>
-        <select asp-for="MembershipCategoryNumber" class="form-control" asp-items="ViewBag.MembershipCategoryNumber"></select>
-        <span asp-validation-for="MembershipCategoryNumber" class="text-danger"></span>
-    </div>
-    <div class="form-group">
-        <label asp-for="MemberFirstName" class="control-label"></label>
-        <input asp-for="MemberFirstName" class="form-control" />
-        <span asp-validation-for="MemberFirstName" class="text-danger"></span>
-    </div>
-    <div class="form-group">
-        <label asp-for="MemberLastName" class="control-label"></label>
-        <input asp-for="MemberLastName" class="form-control" />
-        <span asp-validation-for="MemberLastName" class="text-danger"></span>
-    </div>
-    <div class="form-group">
-        <label asp-for="MemberAddress" class="control-label"></label>
-        <input asp-for="MemberAddress" class="form-control" />
-        <span asp-validation-for="MemberAddress" class="text-danger"></span>
-    </div>
-    <div class="form-group">
-        <label asp-for="MemberDateOfBirth" class="control-label"></label>
-        <input asp-for="MemberDateOfBirth" class="form-control" />
-        <span asp-validation-for="MemberDateOfBirth" class="text-danger"></span>
-    </div>
-    <div class="form-group">
-        <input type="submit" value="Save" class="btn btn-primary" />
-    </div>
-</form>
+<h2 class="text-center">Edit Member</h2>
+<div class="w-50 m-auto bg-secondary mb-5" style="padding: 20px 15px; border-radius: 5px">
+         
+         <div class="row">
+                 <div class="col-md-6">
+                     <h3 class="text-uppercase">Edit</h3>
+                 </div>
+                 <div class="col-md-6 text-end">
+                     <a class="btn btn-info" asp-action="Index">Back To List &rarr;</a>
+                 </div>
+             </div>
+         
+    <hr/>
+    
+    <form asp-action="Edit">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="MemberNumber" />
+        <div class="form-group">
+            <label asp-for="MembershipCategoryNumber" class="control-label"></label>
+            <select asp-for="MembershipCategoryNumber" class="form-control" asp-items="ViewBag.MembershipCategoryNumber"></select>
+            <span asp-validation-for="MembershipCategoryNumber" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="MemberFirstName" class="control-label"></label>
+            <input asp-for="MemberFirstName" class="form-control" />
+            <span asp-validation-for="MemberFirstName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="MemberLastName" class="control-label"></label>
+            <input asp-for="MemberLastName" class="form-control" />
+            <span asp-validation-for="MemberLastName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="MemberAddress" class="control-label"></label>
+            <input asp-for="MemberAddress" class="form-control" />
+            <span asp-validation-for="MemberAddress" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="MemberDateOfBirth" class="control-label"></label>
+            <input asp-for="MemberDateOfBirth" class="form-control" />
+            <span asp-validation-for="MemberDateOfBirth" class="text-danger"></span>
+        </div>
+        <div class="form-group text-center">
+            <input type="submit" value="Update" class="mt-4 btn btn-success w-75 fs-5" style="border-radius: 10px;" />
+        </div>
+    </form>
+    
+</div>

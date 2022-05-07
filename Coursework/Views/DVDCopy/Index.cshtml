@@ -5,19 +5,20 @@
     Layout = "_Layout";
 }
 
-@using (Html.BeginForm())
-{
-    <p>
-        Enter Copy Number : <input type="number" asp-for="CopyNumber" name="copyNumber"/>  
-        <input type="submit" value="Search" />
-    </p>
-}
 
 <h1>Details</h1>
 
 <div>
     <h4>Last Loan</h4>
     <hr />
+    
+@using (Html.BeginForm())
+{
+    <div class="mb-4">
+        <input type="number" style="width: 30%; border-radius: 5px; height: 40px; padding: 0 10px; outline: none;" placeholder="Enter Copy Number" asp-for="CopyNumber" name="copyNumber"/>  
+        <button class="btn btn-info" type="submit">Search &nbsp;<i class="bi bi-search"></i></button>
+    </div>
+}
     <dl class="row">
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.DvdCopy.DvdTitle.TitleName)

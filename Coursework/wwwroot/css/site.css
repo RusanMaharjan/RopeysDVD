@@ -16,3 +16,11 @@ html {
 body {
   margin-bottom: 60px;
 }
+.MemberBox31Days {
+  margin-top: 20px;
+  height: auto;
+
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  text-align: center;
+}

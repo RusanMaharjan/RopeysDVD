@@ -3,16 +3,20 @@
     var member = (Member)ViewData["results"];
     var loans = (IEnumerable<Loan>)ViewData["loans"];
 }
+
+<h2 class="text-center">Search DVD By Member Name</h2>
+<hr class="mb-5" style="width: 60%; margin: auto"/>
+
 @using (Html.BeginForm())
 {
-    <p>
-        Find by name: @Html.TextBox("searchString")
-        <input type="submit" value="Search" />
-    </p>
+    <div class="text-end mb-4">
+        <input type="search" name="searchString" style="width: 30%; border-radius: 5px; height: 40px; padding: 0 10px; outline: none;" placeholder="Search By Member Name">
+        <button class="btn btn-info" type="submit">Search &nbsp;<i class="bi bi-search"></i></button>
+    </div>
 }
 
-<table class="table">
-    <thead>
+<table class="table text-center table-bordered table-striped w-100 mb-5">
+    <thead class="bg-secondary">
     <tr>
         <th>
             MemberNumber

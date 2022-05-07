@@ -28,28 +28,6 @@ namespace Coursework.Controllers
             return View(await applicationDbContext.ToListAsync());
         }
 
-        // show Loan Details specific loan
-        [Authorize(Roles = "Manager, Assistant")]
-        public async Task<IActionResult> Details(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var loan = await _context.Loans
-                .Include(l => l.DvdCopy)
-                .Include(l => l.LoanType)
-                .Include(l => l.Member)
-                .FirstOrDefaultAsync(m => m.LoanNumber == id);
-            if (loan == null)
-            {
-                return NotFound();
-            }
-
-            return View(loan);
-        }
-
         // GET Loan Create view
         [Authorize(Roles = "Manager, Assistant")]
         public IActionResult Create()

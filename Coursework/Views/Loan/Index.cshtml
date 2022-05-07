@@ -4,13 +4,13 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<div class="row mt-4">
+    <div class="col-md-6"><h2>Loan</h2></div>
+    <div class="col-md-6 text-end"><a type="button" asp-controller="Loan" asp-action="Create" class="btn btn-outline-light btn btn-lig">Create Loan <i class="bi bi-plus-circle"></i></a></div>
+</div>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
+<table class="table text-center table-bordered table-striped w-100 mb-5">
+    <thead class="bg-secondary">
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.DateOut)
@@ -33,7 +33,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.Member)
             </th>
-            <th></th>
+            <th>Action</th>
         </tr>
     </thead>
     <tbody>
@@ -61,9 +61,8 @@
                 @Html.DisplayFor(modelItem => item.Member.MemberAddress)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.LoanNumber">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.LoanNumber">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.LoanNumber">Delete</a>
+                <a class="btn btn-info text-decoration-underline" asp-action="Edit" asp-route-id="@item.LoanNumber">Edit &rarr;</a> 
+                <a class= "btn btn-danger text-decoration-underline" asp-action="Delete" asp-route-id="@item.LoanNumber">Delete &rarr;</a>
             </td>
         </tr>
 }

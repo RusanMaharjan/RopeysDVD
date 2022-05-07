@@ -61,6 +61,7 @@
                             <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDTitleSearchBYActorLastName">Search DVD</a></li>
                             <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DvdOnSelves">Search DVD on Shelves</a></li>
                             <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDDetails">Dvd Details</a></li>
+                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="ReturnDVD">Return DVD</a></li>
                             <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="SearchDVDByMemberName">Search DVD By Member Name</a></li>
                             <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDNotLoanFor31Days">DVD Not On Loan For 31 Days</a></li>
                             <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDOlderThan365Days">Dvd older than 365 Days</a></li>
@@ -74,6 +75,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-dark" asp-area="" asp-controller="MemberLoan" asp-action="MemberLoanDetails">Loan Details</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="DVDCopy" asp-action="Index">DVD Copy Loan Detail</a>
                     </li>
                 </ul>
                 }
@@ -116,6 +120,7 @@
                             <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDTitleSearchBYActorLastName">Search DVD</a></li>
                             <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DvdOnSelves">Search DVD on Shelves</a></li>
                             <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDDetails">Dvd Details</a></li>
+                            <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="ReturnDVD">Return DVD</a></li>
                             <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="SearchDVDByMemberName">Search DVD By Member Name</a></li>
                             <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDNotLoanFor31Days">DVD Not On Loan For 31 Days</a></li>
                             <li><a class="dropdown-item" asp-area="" asp-controller="DVDTitle" asp-action="DVDOlderThan365Days">Dvd older than 365 Days</a></li>
@@ -127,9 +132,12 @@
                     <li class="nav-item">
                         <a class="nav-link text-dark" asp-area="" asp-controller="DVDCopy" asp-action="DVDCopiesOnLoan">DVD Copies On Loan</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="MemberLoan" asp-action="MemberLoanDetails">Loan Details</a>
-                    </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="MemberLoan" asp-action="MemberLoanDetails">Loan Details</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="DVDCopy" asp-action="Index">DVD Copy Loan Detail</a>
+                        </li>
                 </ul>
                 }
                 else if(User.IsInRole("User"))

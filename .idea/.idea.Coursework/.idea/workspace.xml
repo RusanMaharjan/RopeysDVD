@@ -5,39 +5,48 @@
     <projectFile profileName="IIS Express">Coursework/Coursework.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="895c74b2-5361-4d04-8e64-ae897f1f1595" name="Changes" comment="">
+    <list default="true" id="895c74b2-5361-4d04-8e64-ae897f1f1595" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Coursework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Coursework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Actor/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Actor/Create.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Actor/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Actor/Delete.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Actor/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Actor/Edit.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Actor/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Actor/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCategory/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCategory/Create.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCategory/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCategory/Delete.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCategory/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCategory/Edit.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCategory/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCategory/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/LoanType/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/LoanType/Create.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/LoanType/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/LoanType/Delete.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/LoanType/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/LoanType/Edit.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/LoanType/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/LoanType/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Producer/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Producer/Create.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Producer/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Producer/Delete.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Producer/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Producer/Edit.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Producer/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Producer/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Controllers/LoanController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Controllers/LoanController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/CastMembers/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/CastMembers/Create.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/CastMembers/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/CastMembers/Delete.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/CastMembers/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/CastMembers/Edit.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/CastMembers/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/CastMembers/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Create.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Delete.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Edit.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCopies/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCopy/DVDCopiesOnLoan.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCopy/DVDCopiesOnLoan.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDCopy/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDCopy/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/CreateDVD.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/CreateDVD.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDDetails.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDDetails.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDNotLoanFor31Days.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDNotLoanFor31Days.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDOlderThan365Days.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDOlderThan365Days.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDTitleSearchBYActorLastName.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DVDTitleSearchBYActorLastName.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/Delete.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DvdOnSelves.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/DvdOnSelves.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/Edit.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/ReturnDVD.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/ReturnDVD.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/DVDTitle/SearchDVDByMemberName.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/DVDTitle/SearchDVDByMemberName.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/Loan/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Loan/Create.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/Loan/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Loan/Delete.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/Loan/Details.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/Loan/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Loan/Edit.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/Loan/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Loan/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/Member/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Member/Create.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/Member/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Member/Delete.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/Member/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Member/Edit.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/Member/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Member/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/MemberLoan/MemberLoanDetails.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/MemberLoan/MemberLoanDetails.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/MemberLoan/MemberNotTakenLoanFor31Days.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/MemberLoan/MemberNotTakenLoanFor31Days.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/MemberLoan/listOfDVDLoanedFor31Days.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Create.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Delete.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Edit.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/MembershipCategory/Index.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coursework/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Studio/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Studio/Create.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Studio/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Studio/Delete.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Studio/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Studio/Edit.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/Views/Studio/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/Views/Studio/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/bin/Debug/net6.0/Coursework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/bin/Debug/net6.0/Coursework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/bin/Debug/net6.0/Coursework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/bin/Debug/net6.0/Coursework.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/bin/Debug/net6.0/Coursework.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/bin/Debug/net6.0/Coursework.staticwebassets.runtime.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/Coursework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/Coursework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/Coursework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/Coursework.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/ref/Coursework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/ref/Coursework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/refint/Coursework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/refint/Coursework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/staticwebassets.build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/Debug/net6.0/staticwebassets.development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursework/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursework/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/wwwroot/css/site.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +71,7 @@
     <setting file="mock://C:/Users/Hp/Desktop/Islington College/.net Coursework/RopeysDVD/Coursework/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1681edfb7d22e92762a47f7ad24b9c3e49499c53750a9dbeedb20bd20615b/Double.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/16e6dcaab0be4156ad31af88b1ed8700a20698/0/IIdentity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Hp/Desktop/Islington College/.net Coursework/RopeysDVD/Coursework/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -128,7 +138,7 @@
       <workItem from="1651820060190" duration="26234000" />
       <workItem from="1651853473860" duration="1301000" />
       <workItem from="1651892060506" duration="1241000" />
-      <workItem from="1651897105399" duration="14661000" />
+      <workItem from="1651897105399" duration="27277000" />
     </task>
     <task id="LOCAL-00001" summary="feri model milako">
       <created>1651766303628</created>
@@ -242,7 +252,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651897460679</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="5 wota crud sakyo">
+      <created>1651915700877</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1651915700877</updated>
+    </task>
+    <task id="LOCAL-00018" summary="commit">
+      <created>1651915718179</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1651915718179</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,10 +295,11 @@
     <MESSAGE value="6 and 7 completed" />
     <MESSAGE value="Controller ko comment lekhna sakyo" />
     <MESSAGE value="Authentication Milyo" />
-    <MESSAGE value="commit" />
     <MESSAGE value="Questin 5" />
     <MESSAGE value="Sakyo Coursework ko Backend" />
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="5 wota crud sakyo" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>

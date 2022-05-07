@@ -3,14 +3,13 @@
 @{
     ViewData["Title"] = "Index";
 }
+<div class="row mt-4">
+    <div class="col-md-6"><h2>Index</h2></div>
+    <div class="col-md-6 text-end"><a type="button" asp-controller="MembershipCategory" asp-action="Create" class="btn btn-outline-light btn btn-lig">Create Actor <i class="bi bi-plus-circle"></i></a></div>
+</div>
 
-<h1>Index</h1>
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
+<table class="table text-center table-bordered table-striped w-100 mb-5">
+    <thead class="bg-secondary">
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.MembershipCategoryDescription)
@@ -18,7 +17,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.MembershipCategoryTotalLoans)
             </th>
-            <th></th>
+            <th>Action</th>
         </tr>
     </thead>
     <tbody>
@@ -31,8 +30,8 @@
                 @Html.DisplayFor(modelItem => item.MembershipCategoryTotalLoans)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.MembershipCategoryNumber">Edit</a> |
-                <a asp-action="Delete" asp-route-id="@item.MembershipCategoryNumber">Delete</a>
+                <a asp-action="Edit" class="btn btn-info text-decoration-underline mx-3"  asp-route-id="@item.MembershipCategoryNumber">Edit &rarr;</a> 
+                <a asp-action="Delete"  class="btn btn-danger text-decoration-underline" asp-route-id="@item.MembershipCategoryNumber">Delete &rarr;</a>
             </td>
         </tr>
 }

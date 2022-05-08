@@ -24,11 +24,11 @@
         <input type="hidden" asp-for="LoanTypeNumber">
         
         <label asp-for="Loan_Type" class="form-label fs-5"></label>
-        <input type="text" class="form-control" asp-for="Loan_Type">
+        <input type="text" class="form-control" asp-for="Loan_Type" readonly>
         <span asp-validation-for="Loan_Type" class="text-danger"></span>
         <br/>
         <label asp-for="LoanDuration" class="form-label fs-5"></label>
-        <input type="text" class="form-control" asp-for="LoanDuration" id="">
+        <input type="text" class="form-control" asp-for="LoanDuration" id="" readonly>
         <span asp-validation-for="LoanDuration" class="text-danger"></span>
         
         <div class="text-center">

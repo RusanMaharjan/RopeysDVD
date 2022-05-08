@@ -87,6 +87,7 @@ public class DVDTitleController : Controller
     //function to show details of dvd
     [Authorize(Roles = "Manager, Assistant")]
     public IActionResult DVDDetails()
+    
     {
         var databaseContext = _context.DvdTitles.Include(x => x.Producer).Include(x => x.Studio)
             .OrderBy(x => x.DateReleased).ToList();

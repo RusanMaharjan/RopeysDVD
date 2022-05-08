@@ -21,13 +21,21 @@
     <hr/>
     
     <form action="" method="post">
-        <input type="text" class="form-control mt-1" asp-for="StudioNumber">
-        <input type="text" class="form-control mt-2" asp-for="StudioName">
         
+        <input type="hidden" class="form-control mt-1" asp-for="StudioNumber">
+        
+        <label asp-for="StudioName" class="form-label fs-5"></label>
+        <input type="text" class="form-control mt-2" asp-for="StudioName">
+        <span asp-validation-for="StudioName" class="text-danger"></span>
         <div class="text-center">
             <button type="submit" class="mt-4 btn btn-success w-75 fs-5" style="border-radius: 10px;">Update</button>
         </div>
-        
+
     </form>
 </div>
-
+@section Scripts
+{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

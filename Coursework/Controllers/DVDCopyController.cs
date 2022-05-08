@@ -23,7 +23,7 @@ public class DVDCopyController : Controller
         var cn = _context.Loans;
         if (!string.IsNullOrEmpty(copyNumber))
         {
-            var loan = cn.Where(x => x.MemberNumber == int.Parse(copyNumber)).Include(x => x.DvdCopy)
+            var loan = cn.Where(x => x.CopyNumber == int.Parse(copyNumber)).Include(x => x.DvdCopy)
                 .ThenInclude(x => x.DvdTitle).Include(x=>x.Member).FirstOrDefault();
             return View(loan);
         }

@@ -23,13 +23,13 @@
         <input type="hidden" asp-for="MembershipCategoryNumber"/>
         <div class="form-group">
             <label asp-for="MembershipCategoryDescription" class="control-label"></label>
-            <input asp-for="MembershipCategoryDescription" class="form-control" placeholder="Membership Category Description"/>
+            <input asp-for="MembershipCategoryDescription" class="form-control" placeholder="Membership Category Description" readonly/>
             <span asp-validation-for="MembershipCategoryDescription" class="text-danger"></span>
         </div>
         <br/>
         <div class="form-group">
             <label asp-for="MembershipCategoryTotalLoans" class="control-label"></label>
-            <input asp-for="MembershipCategoryTotalLoans" class="form-control" placeholder="Membership Category Total Loans" />
+            <input asp-for="MembershipCategoryTotalLoans" class="form-control" placeholder="Membership Category Total Loans" readonly/>
             <span asp-validation-for="MembershipCategoryTotalLoans" class="text-danger"></span>
         </div>
         <div class="text-center">

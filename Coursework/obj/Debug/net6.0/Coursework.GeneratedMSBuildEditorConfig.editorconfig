@@ -143,10 +143,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRFZEVGl0bGVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hp/Desktop/Islington College/.net Coursework/RopeysDVD/Coursework/Views/DVDTitle/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRFZEVGl0bGVcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Hp/Desktop/Islington College/.net Coursework/RopeysDVD/Coursework/Views/DVDTitle/ReturnDVD.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRFZEVGl0bGVcUmV0dXJuRFZELmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -187,20 +183,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hp/Desktop/Islington College/.net Coursework/RopeysDVD/Coursework/Views/Loan/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Hp/Desktop/Islington College/.net Coursework/RopeysDVD/Coursework/Views/Loan/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Hp/Desktop/Islington College/.net Coursework/RopeysDVD/Coursework/Views/Loan/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Hp/Desktop/Islington College/.net Coursework/RopeysDVD/Coursework/Views/MemberLoan/listOfDVDLoanedFor31Days.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyTG9hblxsaXN0T2ZEVkRMb2FuZWRGb3IzMURheXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Hp/Desktop/Islington College/.net Coursework/RopeysDVD/Coursework/Views/MemberLoan/MemberLoanDetails.cshtml]

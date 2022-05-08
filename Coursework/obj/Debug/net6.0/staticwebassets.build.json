@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rlLKvyDK+4ddiPxF5eQIMKIBrcv/I72rZrPDsUEod2A=",
+  "Hash": "jPq+yJ3ShKZHrCDMZ1enprCkmaPBNN3ad0qCJytwmdo=",
   "Source": "Coursework",
   "BasePath": "_content/Coursework",
   "Mode": "Default",
@@ -1120,6 +1120,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\Islington College\\.net Coursework\\RopeysDVD\\Coursework\\wwwroot\\image\\rop-removebg-preview.png",
+      "SourceId": "Coursework",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\Islington College\\.net Coursework\\RopeysDVD\\Coursework\\wwwroot\\",
+      "BasePath": "_content/Coursework",
+      "RelativePath": "image/rop-removebg-preview.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\rop-removebg-preview.png"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\Islington College\\.net Coursework\\RopeysDVD\\Coursework\\wwwroot\\image\\rope.png",
+      "SourceId": "Coursework",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\Islington College\\.net Coursework\\RopeysDVD\\Coursework\\wwwroot\\",
+      "BasePath": "_content/Coursework",
+      "RelativePath": "image/rope.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\rope.png"
     },
     {
       "Identity": "C:\\Users\\Hp\\Desktop\\Islington College\\.net Coursework\\RopeysDVD\\Coursework\\wwwroot\\js\\site.js",

@@ -24,7 +24,9 @@
             <div class="form-group">
                 <label asp-for="DVDNumber" class="control-label"></label>
                 <select asp-for="DVDNumber" class ="form-control" asp-items="ViewBag.DVDNumber"></select>
+                <span asp-validation-for="DatePurchased" class="text-danger"></span>
             </div>
+            <br/>
             <div class="form-group">
                 <label asp-for="DatePurchased" class="control-label"></label>
                 <input asp-for="DatePurchased" class="form-control" placeholder="Date Purchased"/>

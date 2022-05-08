@@ -22,7 +22,10 @@
     
     <form action="" method="post">
         <input type="hidden" class="form-control" asp-for="ProducerNumber">
+        
+        <label asp-for="ProducerName" class="form-label fs-5"></label>
         <input type="text" class="form-control mt-2" asp-for="ProducerName">
+        <span asp-validation-for="ProducerName" class="text-danger"></span>
         <div class="text-center">
             <button type="submit" class="mt-4 btn btn-success w-75 fs-5" style="border-radius: 10px;">Update</button>
         </div>
@@ -30,4 +33,9 @@
     </form>
     
 </div>
-
+@section Scripts
+{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}
